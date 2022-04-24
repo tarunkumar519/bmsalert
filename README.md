@@ -32,3 +32,10 @@ Due to the dependencies used in this script, you can easily run this on a Raspbe
 
 # Support
 If you like this repo , give it a star to support me for future updates
+
+##License
+
+MIT License
+
+Copyright (c) 2022 Tarun kumar
+
