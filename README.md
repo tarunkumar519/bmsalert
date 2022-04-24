@@ -29,3 +29,6 @@ Run this and put it aside. Whenever tickets are available, script sends the SMS 
 By default delay is set to 30 Seconds, you can change this inside the script.
 
 Due to the dependencies used in this script, you can easily run this on a RaspberryPi, Android, iOS(iSH) and other devices with ease.. or spin up a server.
+
+# Support
+If you like this repo , give it a star to support me for future updates
